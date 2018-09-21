@@ -1,6 +1,6 @@
 Dockerized Mathics
 ===========
-[![](https://images.microbadger.com/badges/image/quar/mathics-docker:alpine3.7.svg)](https://microbadger.com/images/quar/mathics-docker:alpine3.7 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/quar/mathics-docker:latest.svg)](https://microbadger.com/images/quar/mathics-docker:latest "Get your own image badge on microbadger.com")
 
 
 REF https://github.com/mathics/Mathics
